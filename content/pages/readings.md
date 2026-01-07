@@ -10,7 +10,7 @@ title: Readings
 uid: b3d49c22-4565-7703-0276-7cc9e7721f25
 ---
 
-The readings listed below are the foundation of this course. Where available, journal article abstracts from {{% resource_link "f3bd93ae-0049-416a-a47f-7676388a3d73" "PubMed" %}} (an online database providing access to citations from biomedical literature) are included.
+The readings listed below are the foundation of this course. Where available, journal article abstracts from [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed) (an online database providing access to citations from biomedical literature) are included.
 
 History of Probability Theory
 -----------------------------
@@ -64,7 +64,7 @@ Causal Models
 
 Pearl, J. _Causality: Models, Reasoning, and Inference._ New York: Cambridge University Press, 2000.
 
-Glymour, C. "{{% resource_link "5db5d09f-b0d8-4b57-b2f2-0e8d34e69636" "Learning, Prediction and Causal Bayes Nets" %}}." _Trends in Cognitive Science 7_ (2003): 43-48.
+Glymour, C. "[Learning, Prediction and Causal Bayes Nets](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=12517358)." _Trends in Cognitive Science 7_ (2003): 43-48.
 
 > _PubMed abstract:_ Recent research in cognitive and developmental psychology on acquiring and using causal knowledge uses the causal Bayes net formalism, which simultaneously represents hypotheses about causal relations, probability relations, and effects of interventions. The formalism provides new normative standards for reinterpreting experiments on human judgment, offers a precise interpretation of mechanisms, and allows generalizations of existing theories of causal learning. Combined with hypotheses about learning algorithms, the formalism makes predictions about inferences in many experimental designs beyond the classical, Pavlovian cue-->effect design.
 
@@ -77,7 +77,7 @@ Causal Theories and Mechanisms
 
 Waldmann, M. R. "Knowledge-based Causal Induction." _The Psychology of Learning and Motivation, Vol. 34: Causal Learning._ Edited by D. R. Shanks, K. J. Holyoak, and D. L. Medin. San Diego: Academic Press, 1996, pp. 47-88.
 
-Ahn, W., C. W. Kalish, D. L. Medin, and S. A. Gelman. "{{% resource_link "55cbcb25-dc54-4f69-963b-88630cb9ed33" "The Role of Covariation vs. Mechanism Information in Causal Attribution" %}}." _Cognition_ 54 (1995): 299-352.
+Ahn, W., C. W. Kalish, D. L. Medin, and S. A. Gelman. "[The Role of Covariation vs. Mechanism Information in Causal Attribution](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=7720361)." _Cognition_ 54 (1995): 299-352.
 
 > _PubMed abstract:_ Traditional approaches to causal attribution propose that information about covariation of factors is used to identify causes of events. In contrast, we present a series of studies showing that people seek out and prefer information about causal mechanisms rather than information about covariation. Experiments 1, 2 and 3 asked subjects to indicate the kind of information they would need for causal attribution. The subjects tended to seek out information that would provide evidence for or against hypotheses about underlying mechanisms. When asked to provide causes, the subjects' descriptions were also based on causal mechanisms. In Experiment 4, subjects received pieces of conflicting evidence matching in covariation values but differing in whether the evidence included some statement of a mechanism. The influence of evidence was significantly stronger when it included mechanism information. We conclude that people do not treat the task of causal attribution as one of identifying a novel causal relationship between arbitrary factors by relying solely on covariation information. Rather, people attempt to seek out causal mechanisms in developing a causal explanation for a specific event.
 
@@ -94,7 +94,7 @@ Oaksford, M., and N. Chater. "A Rational Analysis of the Selection Task as Optim
 
 Oaksford M., and N. Chater, eds. _Rational Models of Cognition_. Oxford University Press, 1998.
 
-Sperber, D., F. Cara, and V. Girotto. "{{% resource_link "b6d94c6e-ebd6-44a8-9174-034049ae26a2" "Relevance Theory Explains the Selection Task" %}}". _Cognition_ 57 (1995): 31-95.
+Sperber, D., F. Cara, and V. Girotto. "[Relevance Theory Explains the Selection Task](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=7587018)". _Cognition_ 57 (1995): 31-95.
 
 > _PubMed abstract:_ We propose a general and predictive explanation of the Wason Selection Task (where subjects are asked to select evidence for testing a conditional "rule"). Our explanation is based on a reanalysis of the task, and on Relevance Theory. We argue that subjects' selections in all true versions of the Selection Task result from the following procedure. Subjects infer from the rule directly testable consequences. They infer them in their order of accessibility, and stop when the resulting interpretation of the rule meets their expectations of relevance. Subjects then select the cards that may test the consequences they have inferred from the rule. Order of accessibility of consequences and expectations of relevance vary with rule and context, and so, therefore, does subjects' performance. By devising appropriate rule-context pairs, we predict that correct performance can be elicited in any conceptual domain. We corroborate this prediction with four experiments. We argue that past results properly reanalyzed confirm our account. We discuss the relevance of the Selection Task to the study of reasoning.
 
